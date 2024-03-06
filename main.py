@@ -8,6 +8,7 @@ from src.document_querier import (
     check_availability,
     download_pdf
 )
+
 from src.extract_table import (
     get_detector,
     get_extractor,
